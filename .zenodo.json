@@ -1,0 +1,34 @@
+{
+  "title": "Interventions Alzheimer Prevention Latin America",
+  "description": "Open research dataset: Interventions Alzheimer Prevention Latin America. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "alzheimer",
+    "latin america",
+    "open data",
+    "research",
+    "dataset"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/interventions-alzheimer-prevention-latin-america",
+      "scheme": "url"
+    }
+  ]
+}
